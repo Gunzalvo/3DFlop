@@ -1,5 +1,9 @@
 # 3DFlop
 
+![3DFlop Orbit](docs/orbit.gif)
+![3DFlop Audio](docs/audio.gif)
+
+
 > A tiny experimental 3D wireframe renderer built from scratch with Vanilla JavaScript, HTML Canvas, and math.
 
 The goal was not to build a production-ready rendering engine, but to understand what happens underneath higher-level tools and game engines: how 3D coordinates are transformed, projected, and finally represented on a 2D screen. No Three.js. No WebGL engine. Just JavaScript, HTML Canvas, and geometry.
@@ -20,4 +24,5 @@ Instead of starting with an existing engine, I wanted to experiment with the bas
 - rendering 3D structures onto a 2D canvas
 
 This project became one of my earliest explorations of the relationship between mathematics, geometry, and visual software.
+
 ---
